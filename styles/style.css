@@ -1,0 +1,72 @@
+.logo {
+  color: #0a1b32;
+  margin-left: 80px;
+  margin-top: 37px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px; /* 160% */
+  letter-spacing: -0.6px;
+}
+
+main {
+  display: flex;
+}
+span {
+  color: #a3dc00;
+}
+
+.main-title {
+  max-width: 495px;
+  width: 100%;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-bottom: 0;
+  color: #1b0a42;
+  font-family: "Ramaraja", serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 76px; /* 105.556% */
+  letter-spacing: 1.44px;
+  display: block;
+}
+.description {
+  max-width: 582px;
+  width: 100%;
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 20px;
+  color: #9a9a9a;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+  letter-spacing: 0.4px;
+}
+.btn {
+  width: 152px;
+  height: 64px;
+  margin-left: 200px;
+  margin-top: 50px;
+  border-radius: 6px;
+  border: none;
+  background-color: #a3dc00;
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 200% */
+  letter-spacing: 0.32px;
+}
+
+img {
+  max-width: 680px;
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 40px;
+}
