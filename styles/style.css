@@ -21,7 +21,7 @@ span {
   max-width: 495px;
   width: 100%;
   margin-top: 100px;
-  margin-left: 200px;
+  margin-left: 50px;
   margin-bottom: 0;
   color: #1b0a42;
   font-family: "Ramaraja", serif;
@@ -34,9 +34,9 @@ span {
 }
 .description {
   max-width: 582px;
-  width: 100%;
+  width: 80%;
   margin-top: 10px;
-  margin-left: 200px;
+  margin-left: 50px;
   margin-right: 20px;
   color: #9a9a9a;
   font-family: "Roboto", sans-serif;
@@ -49,8 +49,8 @@ span {
 .btn {
   width: 152px;
   height: 64px;
-  margin-left: 200px;
-  margin-top: 50px;
+  margin-left: 50px;
+  margin-top: 30px;
   border-radius: 6px;
   border: none;
   background-color: #a3dc00;
@@ -63,7 +63,13 @@ span {
   line-height: 32px; /* 200% */
   letter-spacing: 0.32px;
 }
-
+.btn:hover {
+  background-color: "#fff";
+  color: "#a3dc00";
+  border-style: double;
+  border-color: "a3dc00";
+  box-shadow: 0 12px 16px 0 #a3dc00;
+}
 img {
   max-width: 680px;
   width: 100%;
